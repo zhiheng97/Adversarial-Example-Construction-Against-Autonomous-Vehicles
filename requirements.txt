@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+opencv-python
+pillow
+dask
+pandas
+matplotlib
+tqdm
+albumentations
+torchmetrics
+pycocotools
+mmcv==2.0.0rc4
+mmcv-full
+mmdet
