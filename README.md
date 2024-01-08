@@ -4,9 +4,11 @@
 
 **Undergraduate Final Year Project**
 
-*Completed by Loh Zhi Heng, supervised by A/P Tan Rui, and examined by A/P Douglas Maskell.*
+*Completed by Loh Zhi Heng, supervised by A/P Tan Rui, and presented to A/P Douglas Maskell and A/P Tan Rui on 8 December 2023.*
 
 *Special thanks to Research Associate Guo Dongfang for managing any technical difficulties, and resources required.*
+
+*Link to FYP Paper - https://hdl.handle.net/10356/171944*
 
 ---
 
